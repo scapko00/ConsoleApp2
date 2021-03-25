@@ -9,7 +9,10 @@ namespace ConsoleApp2
         int x;
         public void printing()
         {
+
             Console.WriteLine("nesto");
         }
+
+        
     }
 }
